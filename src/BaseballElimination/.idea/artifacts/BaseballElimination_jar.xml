@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BaseballElimination:jar">
+    <output-path>$PROJECT_DIR$/../BaseballEliminationGrafico</output-path>
+    <root id="archive" name="BaseballElimination.jar">
+      <element id="module-output" name="BaseballElimination" />
+    </root>
+  </artifact>
+</component>

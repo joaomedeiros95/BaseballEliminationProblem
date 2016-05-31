@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="550.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="br.ufrn.baseballeliminationgraph.controller.InicialController">
+   <children>
+       <ChoiceBox fx:id="selecao" layoutX="225.0" layoutY="2.0" prefWidth="150.0" />
+       <TableView fx:id="tabela" layoutY="35.0" prefHeight="300.0" prefWidth="600.0" />
+       <TextArea  fx:id="console" layoutY="348.0" prefHeight="200.0" prefWidth="600.0" />
+   </children>
+</AnchorPane>
